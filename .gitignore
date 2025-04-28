@@ -1,0 +1,25 @@
+# Python
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+
+# Django
+db.sqlite3
+.env
+
+# Node.js
+node_modules/
+package-lock.json
+
+# Virtual Environments
+.venv/
+venv/
+
+
+
+# System Files
+.DS_Store
+Thumbs.db
+
+
