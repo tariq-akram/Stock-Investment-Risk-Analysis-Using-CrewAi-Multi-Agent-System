@@ -1,6 +1,9 @@
 # Stock Trading Analyzer
 
-![Stock Trading Analyzer](frontend/src/assets/hero-bg.jpg) <!-- Update with actual screenshot or logo -->
+<!--![Stock Trading Analyzer](frontend/src/assets/hero-bg.jpg)  Update with actual screenshot or logo -->
+<img width="662" alt="image" src="https://github.com/user-attachments/assets/c0225576-fea8-4d41-9a04-ba83fb1d7736" />
+
+
 
 A full-stack web application for analyzing stock market data and providing AI-driven trade recommendations. Built with **Django** (backend) and **React** (frontend), this project integrates real-time stock data from **Alpha Vantage**, sentiment analysis via **Hugging Face**, and interactive visualizations to empower investors, especially beginners, to make informed decisions.
 
